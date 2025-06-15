@@ -48,3 +48,7 @@ Two main tables:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/employee-management-system.git
+   
+![addemployee page](/PkfEmployeeManagementSystem/src/pkfemployeemanagementsystem/images/homepage.PNG)
+![addemployee page](/PkfEmployeeManagementSystem/src/pkfemployeemanagementsystem/images/loginpage.PNG)
+![addemployee page](/PkfEmployeeManagementSystem/src/pkfemployeemanagementsystem/images/salarypage.PNG)
