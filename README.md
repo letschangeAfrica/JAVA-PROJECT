@@ -4,7 +4,7 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-19-yellowgreen)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
 
-![addemployee page](src/pkfemployeemanagementsystem/images/addemployeepage.PNG)
+![addemployee page](/PkfEmployeeManagementSystem/src/pkfemployeemanagementsystem/images/addemployeepage.PNG)
 
 
 A desktop application for managing employee records, attendance, and salaries with data visualization capabilities.
